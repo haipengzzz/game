@@ -11,4 +11,4 @@ git clone git@github.com:haipengzzz/game.git
 
 ```
 
-https://cni.ink
+Demo https://cni.ink
