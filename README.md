@@ -12,3 +12,6 @@ git clone git@github.com:haipengzzz/game.git
 ```
 
 Demo https://cni.ink
+
+项目如有侵权联系以下邮箱进行删除。谢谢
+email: haipneg.zhao1124@gmail.com
